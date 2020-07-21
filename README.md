@@ -1,2 +1,2 @@
-# face-recignition-attendance-system
+# face-recognition-attendance-system
 Face recognition using Python, OpenCV
