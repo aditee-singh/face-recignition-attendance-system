@@ -1,5 +1,5 @@
 #making necessary imports
-size = 4
+
 import cv2
 import sys
 import numpy
