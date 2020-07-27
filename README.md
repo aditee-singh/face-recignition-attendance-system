@@ -1,11 +1,12 @@
 # face-recognition-attendance-system
 Face recognition system built on opencv 4.3 and Python 3.8 code to detect faces using Haar Cascade and match facsed using LBPH (Local Binary Patterns Histogram) Recognition on live webcam.
-#Prerequisites:
+
+# Prerequisites:
 1. Python 3.8
 2. Opencv 4.3 
 3. Anaconda 2020.7
 Python libraries - numpy, sckilit, dlib.
-#How to Use: (Step by Step)
+# How to Use: (Step by Step)
 1. Save the "haarcascade_frontalface_default.xml" file, create_dataset.py, recognition.py files in your directory(say project).
 2. Create a sub-directory with the name "dataset".
 3. Run the create_dataset.py file to create your own dataset, Change the name of the subset in the code to person's name.
