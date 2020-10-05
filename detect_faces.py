@@ -24,7 +24,7 @@ while True:
     for (a,b,w,h) in faces:
         cv2.rectangle(image,(a,b),(a+w,b+h),(255,0,0),2) 
     cv2.imshow('video',image)
-    print("we are showing video")
+    
     k = cv2.waitKey(20) #& 0xff
     if k == 27: 
         break
